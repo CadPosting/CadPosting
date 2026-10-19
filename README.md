@@ -10,6 +10,7 @@
 </tr>
 </table>
 
+<p><a href="https://www.linkedin.com/in/ramzan381/">linkedin</a></p>
 <p><a href="https://ramzanahmad.com">ramzanahmad.com</a></p>
 
 </div>
